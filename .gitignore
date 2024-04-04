@@ -1,0 +1,5 @@
+.env
+flagged
+input_images
+output_images
+__pycache__
